@@ -4,3 +4,4 @@ instrucciones generales del proyecto
     3.Realiza el trabajo o la funcionalidad asignada
     4.Haz tu commit
     5.Realiza tu push
+    6.Realiza un pull
